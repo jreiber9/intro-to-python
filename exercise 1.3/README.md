@@ -8,7 +8,7 @@ Create recipes script:
     -cooking_time (int): Contains the cooking time in minutes
     -ingredients (list): Contains a number of ingredients, each of the str data type
 
-I utilized functions and loops a lot in this task to organize the data in the output format that was required for the task. 
+I utilized functions and loops a lot in this task to organize the data in the output format required.
 
 ## files contained
 
